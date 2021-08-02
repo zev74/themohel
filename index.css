@@ -40,7 +40,7 @@ h1 {
   font-family: Lora;
   font-weight: 500;
   border-bottom: 1.4px solid rgb(36, 36, 36);
-  padding: 0px 100px;
+  padding: 0px 70%;
 }
 
 .tagLine {
@@ -58,7 +58,6 @@ h1 {
 }
 
 .contentSectionRow {
-  margin: 0px 10%;
   display: flex;
   justify-content: center;
   /* grid-template-columns: 1fr 1fr;
