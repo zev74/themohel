@@ -55,7 +55,7 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0px 5%;
+  padding: 0px 50px;
 }
 
 .contentSectionRow {
@@ -125,7 +125,7 @@ h1 {
 }
 .fa-envelope {
   font-size: 30px;
-  color: yellow;
+  color: black;
 }
 .fa-phone {
   font-size: 30px;
