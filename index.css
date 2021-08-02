@@ -55,12 +55,13 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
+    padding: 0px 5%;
 }
 
 .contentSectionRow {
   display: flex;
   justify-content: center;
-  padding: 0px 5%;
+
   /* grid-template-columns: 1fr 1fr;
   grid-column-gap: 4em; */
 }
