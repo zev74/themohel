@@ -55,7 +55,7 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-    padding: 0px 5%;
+  padding: 0px 5%;
 }
 
 .contentSectionRow {
@@ -116,7 +116,7 @@ h1 {
   font-family: Lora;
   font-weight: 500;
   border-bottom: 1.4px solid rgb(36, 36, 36);
-  padding: 0px 100px;
+  padding: 0px 10px;
 }
 
 .fa-whatsapp {
