@@ -57,7 +57,7 @@ h1 {
 }
 
 .contentSectionRow {
-  margin: 0px 10%;
+  margin: 0px 5%;
   display: flex;
   justify-content: center;
   /* grid-template-columns: 1fr 1fr;
