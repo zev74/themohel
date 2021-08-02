@@ -152,8 +152,7 @@ h1 {
   
   .contentImage {
     border-radius: 9px;
-    max-width: 98%;
-    max-height: 90%;
+    max-width: 100%;
 }
   
   .mobileFooter {
