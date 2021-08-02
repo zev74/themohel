@@ -40,7 +40,6 @@ h1 {
   font-family: Lora;
   font-weight: 500;
   border-bottom: 1.4px solid rgb(36, 36, 36);
-  padding: 0px 100px;
 }
 
 .tagLine {
@@ -162,4 +161,3 @@ h1 {
     right: 0;
   }
 }
-
