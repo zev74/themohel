@@ -123,7 +123,7 @@ h1 {
 }
 .fa-envelope {
   font-size: 30px;
-  color: red;
+  color: blue;
 }
 .fa-phone {
   font-size: 30px;
@@ -151,9 +151,9 @@ h1 {
   }
   .mobileFooter {
     padding: 15px 0px;
-    width: 100%;
+    width: 90%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     overflow: hidden;
 
     background-color: rgb(255, 255, 255);
