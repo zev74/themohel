@@ -123,7 +123,7 @@ h1 {
 }
 .fa-envelope {
   font-size: 30px;
-  color: orange;
+  color: red;
 }
 .fa-phone {
   font-size: 30px;
@@ -154,6 +154,7 @@ h1 {
     width: 100%;
     display: flex;
     justify-content: space-around;
+    overflow: hidden;
 
     background-color: rgb(255, 255, 255);
     position: fixed;
