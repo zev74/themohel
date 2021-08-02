@@ -161,6 +161,10 @@ h1 {
     max-width: 100%;
     max-height: 95%;
 }
+   
+   .articleHeading {
+      font-size: 2em;
+   }
   
   .mobileFooter {
     padding: 15px 0px;
