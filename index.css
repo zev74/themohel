@@ -123,7 +123,7 @@ h1 {
 }
 .fa-envelope {
   font-size: 30px;
-  color: blue;
+  color: yellow;
 }
 .fa-phone {
   font-size: 30px;
@@ -149,9 +149,16 @@ h1 {
     flex-direction: column;
     flex-direction: column-reverse;
   }
+  
+  .contentImage {
+    border-radius: 9px;
+    max-width: 80%;
+    max-height: 60%px;
+}
+  
   .mobileFooter {
     padding: 15px 0px;
-    width: 90%;
+    width: 100%;
     display: flex;
     justify-content: space-evenly;
     overflow: hidden;
